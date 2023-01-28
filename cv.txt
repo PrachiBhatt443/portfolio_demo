@@ -1,1 +1,4 @@
 This is my cv
+My name is prachi
+I'm a python enthusiast 
+I am a front end developer 
