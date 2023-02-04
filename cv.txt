@@ -2,3 +2,10 @@ This is my cv
 My name is prachi
 I'm a python enthusiast 
 I am a front end developer 
+SKILLS
+1.HTML
+2.CSS
+3.Javascript
+4.python
+5.c
+6.cpp
